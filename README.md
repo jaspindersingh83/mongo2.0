@@ -109,7 +109,7 @@
 
 ### Budget Aggregation `'/budget/:id/summary'`
 
-* For this Route you'll want to write a `'/get'` that will take the `sum` of all
+* For this Route you'll want to write a `'get'` route that will take the `sum` of all
   your expenses, and return the difference between the total from your budget
   and summed up expenses.
 * consider what you'll need here.
